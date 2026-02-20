@@ -1,0 +1,8 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.pyo
+data/images/
+data/ML*.pdf
+.vscode/
+.DS_Store
